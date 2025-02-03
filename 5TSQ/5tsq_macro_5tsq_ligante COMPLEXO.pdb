@@ -1,0 +1,15 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     11  H5  BDR A 402       8.759  34.236  17.670  1.00  0.00      5tsq H  
+ATOM     13  H1  BDR A 402      12.325  33.088  17.793  1.00  0.00      5tsq H  
+TER      14      BDR A 402 
+HETATM    1 Ca   CA  A 401       9.863  27.773  17.436  1.00 12.44      5tsqCa  
+HETATM    2  C4  BDR A 402       9.123  32.154  18.315  1.00 19.76      5tsq C  
+HETATM    3  O4  BDR A 402      10.165  32.518  17.581  1.00 27.41      5tsq O  
+HETATM    4  C1  BDR A 402      11.343  31.467  17.750  1.00 22.60      5tsq C  
+HETATM    5  C2  BDR A 402      10.992  30.693  18.828  1.00 16.42      5tsq C  
+HETATM    6  O2  BDR A 402      11.396  29.313  18.556  1.00 14.60      5tsq O  
+HETATM    7  C3  BDR A 402       9.465  30.780  18.998  1.00 17.24      5tsq C  
+HETATM    8  O3  BDR A 402       8.727  29.760  18.409  1.00 13.74      5tsq O  
+HETATM    9  C5  BDR A 402       8.887  33.276  19.322  1.00 19.24      5tsq C  
+HETATM   10  O5  BDR A 402       8.755  34.469  18.591  1.00 18.03      5tsq O  
+HETATM   12  O1  BDR A 402      12.518  32.163  17.888  1.00 31.49      5tsq O  
