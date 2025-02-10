@@ -1,0 +1,5 @@
+RMSD -> 0,47
+Energia -> -5,86 kcal/mol
+
+Grid center: [x: -52.646]  [y: 21.255]  [z: -14.657]
+Number of points:[x: 38]  [y: 35]  [z: 31]
