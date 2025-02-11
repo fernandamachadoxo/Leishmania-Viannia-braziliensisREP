@@ -1,7 +1,9 @@
-Informações gerais:
-Enzima trabalhada: 3CSS 
-Enzima similar encontrada: 3E7F 
-  Ligante enmprestado da enzima similar: 6PG (6-phosphogluconic acid)
+INFORMAÇÕES GERAIS:
+  Enzima trabalhada: 3CSS 
+  Enzima similar encontrada: 3E7F 
+    Ligante enmprestado da enzima similar: 6PG (6-phosphogluconic acid)
+
+INFORMAÇÕES DO RE-DOCKING:
 
 RMSD -> 1.72
 Energia -> -1,85 kcal/mol
