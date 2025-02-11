@@ -1,3 +1,10 @@
+INFORMAÇÕES GERAIS:
+  Enzima trabalhada: 4WZH
+  Enzima similar encontrada: 3MJY
+    Ligante enmprestado da enzima similar: IJZ (5-amino-2,6-dioxo-1,2,3,6-tetrahydropyrimidine-4-carboxylic acid)
+
+INFORMAÇÕES DO RE-DOCKING:
+
 RMSD -> 0,47
 Energia -> -5,86 kcal/mol
 
