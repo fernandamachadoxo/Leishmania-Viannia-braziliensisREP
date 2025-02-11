@@ -1,0 +1,23 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      8  H2  6PG A 843      25.166  39.315  32.185  1.00  0.00      macr H  
+ATOM     10  H3  6PG A 843      24.368  40.044  34.247  1.00  0.00      macr H  
+ATOM     12  H4  6PG A 843      28.503  38.616  35.746  1.00  0.00      macr H  
+ATOM     21  H5  6PG A 843      27.068  36.241  35.517  1.00  0.00      macr H  
+TER      22      6PG A 843 
+HETATM    1  C4  6PG A 843      26.474  38.551  36.117  1.00 79.33      macr C  
+HETATM    2  C3  6PG A 843      26.124  39.123  34.690  1.00 79.38      macr C  
+HETATM    3  C2  6PG A 843      25.936  38.099  33.506  1.00 80.21      macr C  
+HETATM    4  C1  6PG A 843      27.038  37.073  33.474  1.00 81.50      macr C  
+HETATM    5  O1A 6PG A 843      26.811  35.900  33.145  1.00 80.49      macr O  
+HETATM    6  O1  6PG A 843      28.281  37.534  33.836  1.00 80.49      macr O  
+HETATM    7  O2  6PG A 843      25.852  38.658  32.161  1.00 79.63      macr O  
+HETATM    9  O3  6PG A 843      25.164  40.184  34.747  1.00 80.37      macr O  
+HETATM   11  O4  6PG A 843      27.882  38.352  36.416  1.00 79.73      macr O  
+HETATM   13  C5  6PG A 843      25.656  37.288  36.483  1.00 77.60      macr C  
+HETATM   14  C6  6PG A 843      24.158  37.391  35.993  1.00 77.63      macr C  
+HETATM   15  O6  6PG A 843      23.391  38.466  36.620  1.00 78.41      macr O  
+HETATM   16  P   6PG A 843      22.463  39.293  35.542  1.00 75.89      macr P  
+HETATM   17  O1P 6PG A 843      22.750  40.756  35.627  1.00 76.66      macr O  
+HETATM   18  O2P 6PG A 843      22.759  38.756  34.041  1.00 76.95      macr O  
+HETATM   19  O3P 6PG A 843      20.889  38.898  35.739  1.00 79.00      macr O  
+HETATM   20  O5  6PG A 843      26.349  36.071  36.113  1.00 76.24      macr O  
