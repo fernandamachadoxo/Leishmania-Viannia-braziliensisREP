@@ -1,3 +1,11 @@
+INFORMAÇÕES GERAIS:
+
+  Enzima trabalhada: 6EDI
+  Enzima similar encontrada: 5BRE
+    Ligante enmprestado da enzima similar: 4UZ -  2-{[(benzyloxy)carbonyl]amino}-2-deoxy-beta-D-glucopyranose
+
+INFORMAÇÕES DO RE-DOCKING:
+
 RMSD -> 2.3
 Energia -> -3.43 kcal/mol
 
