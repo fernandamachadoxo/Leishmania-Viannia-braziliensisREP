@@ -1,9 +1,0 @@
-RMSD -> 2.3
-Energia -> -3.43 kcal/mol
-
-Grid center: [x: -24.360]  [y: -10.566 ]  [z: -5.041]
-Number of points:[x: 47]  [y: 28]  [z: 36]
-
-Number of GA runs: 500
-Number of induviduals in population: 150
-Maximum number os energy evaluations: short
