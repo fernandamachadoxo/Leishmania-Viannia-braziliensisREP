@@ -5,7 +5,7 @@ INFORMAÇÕES GERAIS:
 
 INFORMAÇÕES DO RE-DOCKING:
 RMSD -> 1.97
-Energia -> -2,04 kcal/mol
+Energia -> -2.04 kcal/mol
 
 Grid center: [x: 88.526]  [y: 68.517]  [z: 95.985]
 Number of points:[x: 49]  [y: 45]  [z: 52]
