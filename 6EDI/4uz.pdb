@@ -1,0 +1,29 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     10  H2  4UZ A 500      19.448  24.702  69.221  1.00  0.00      macr H  
+ATOM     20  H1  4UZ A 500      18.363  23.417  67.412  1.00  0.00      macr H  
+ATOM     22  H3  4UZ A 500      19.593  23.316  72.030  1.00  0.00      macr H  
+ATOM     24  H4  4UZ A 500      23.043  20.771  70.439  1.00  0.00      macr H  
+ATOM     27  H6  4UZ A 500      23.209  19.602  69.692  1.00  0.00      macr H  
+TER      28      4UZ A 500 
+HETATM    1  C3  4UZ A 500      20.607  22.407  70.628  1.00 67.70      macr C  
+HETATM    2  C2  4UZ A 500      19.355  22.647  69.779  1.00 67.72      macr C  
+HETATM    3  C1  4UZ A 500      19.650  22.296  68.319  1.00 65.02      macr C  
+HETATM    4  O5  4UZ A 500      19.968  20.909  68.272  1.00 66.19      macr O  
+HETATM    5  C5  4UZ A 500      21.202  20.616  68.986  1.00 63.20      macr C  
+HETATM    6  C4  4UZ A 500      21.086  21.014  70.466  1.00 64.59      macr C  
+HETATM    7  N2  4UZ A 500      19.025  24.056  69.887  1.00 66.93      macr N  
+HETATM    8  C13 4UZ A 500      18.193  24.559  70.816  1.00 74.57      macr C  
+HETATM    9  O15 4UZ A 500      17.733  23.930  71.749  1.00 75.62      macr O  
+HETATM   11  O14 4UZ A 500      18.118  25.944  70.681  1.00 77.24      macr O  
+HETATM   12  C16 4UZ A 500      18.835  26.659  71.724  1.00 72.52      macr C  
+HETATM   13  C17 4UZ A 500      20.202  26.058  71.815  1.00 74.95      macr C  
+HETATM   14  C18 4UZ A 500      20.678  25.522  73.035  1.00 75.46      macr C  
+HETATM   15  C19 4UZ A 500      21.953  24.972  73.070  1.00 77.00      macr C  
+HETATM   16  C20 4UZ A 500      22.736  24.956  71.933  1.00 76.74      macr C  
+HETATM   17  C21 4UZ A 500      22.270  25.470  70.736  1.00 75.42      macr C  
+HETATM   18  C22 4UZ A 500      21.013  26.023  70.674  1.00 71.47      macr C  
+HETATM   19  O1  4UZ A 500      18.537  22.491  67.531  1.00 70.99      macr O  
+HETATM   21  O3  4UZ A 500      20.296  22.677  71.995  1.00 62.37      macr O  
+HETATM   23  O4  4UZ A 500      22.393  20.913  71.117  1.00 65.47      macr O  
+HETATM   25  C6  4UZ A 500      21.482  19.120  68.826  1.00 64.65      macr C  
+HETATM   26  O6  4UZ A 500      22.727  18.797  69.546  1.00 66.68      macr O  
